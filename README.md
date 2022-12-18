@@ -1,9 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Amir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp"><img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" width="200px" height="200px"></img></a>
-</p>
+</p> -->
 
 
 <br>
@@ -53,7 +53,7 @@
 <br>
 
 - **Databases**:
-<div style="margin-left:20px">
+<div style="margin-left:20px;">
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
